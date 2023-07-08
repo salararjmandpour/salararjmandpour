@@ -1,8 +1,12 @@
 # 💫 About Me:
 I'm a backend web developer.
+##
 I'm crazy and love learning new programming technologies
+##
 I usually read books for relaxation or listen to music and podcasts
+##
 I usually choose clothes for fun walking and going to the cafe or shopping
+##
 I like to live in the classic style
 
 
