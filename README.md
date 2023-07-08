@@ -1,14 +1,14 @@
 # 💫 About Me:
 I'm a backend web developer.
-##
+#
 I'm crazy and love learning new programming technologies
-##
+#
 I usually read books for relaxation or listen to music and podcasts
-##
+#
 I usually choose clothes for fun walking and going to the cafe or shopping
-##
+#
 I like to live in the classic style
-
+#
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](http://insatagram.com/salararjmandpour) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/salar-arjmand-pour) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/salararjmand) [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/Salararjmandpour_0xf0)
