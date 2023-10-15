@@ -1,13 +1,8 @@
 # 💫 About Me:
-I'm a backend web developer.
-#
-I'm crazy and love learning new programming technologies
-#
-I usually read books for relaxation or listen to music and podcasts
-#
-I usually choose clothes for fun walking and going to the cafe or shopping
-#
-I like to live in the classic style
+As a server-side web developer, I specialize in creating and managing web systems and services. With expertise in areas such as server-side programming,
+databases, web security, and web performance optimization, I strive to deliver a better user experience for websites and web applications. 
+My goal is to create websites and services that can address the needs and challenges of clients and excel in terms of performance and security. 
+I lead development teams and guide my clients to success using modern and up-to-date web technologies and industry standards.
 #
 
 ## 🌐 Socials:
